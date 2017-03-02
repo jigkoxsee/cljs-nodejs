@@ -1,0 +1,2 @@
+#!/bin/bash
+node resources/public/js/server-side/main.js

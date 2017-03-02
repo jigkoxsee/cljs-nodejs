@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "source-map-support": "^0.4.11",
+    "ws": "^2.2.0"
+  },
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
