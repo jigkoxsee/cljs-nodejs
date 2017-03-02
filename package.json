@@ -4,6 +4,7 @@
     "ws": "^2.2.0"
   },
   "dependencies": {
+    "@google/cloud-debug": "^0.9.1",
     "express": "^4.15.0"
   }
 }

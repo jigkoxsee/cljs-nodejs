@@ -18,6 +18,7 @@
                 :main demo.main
                 :output-to "resources/public/js/main.js"
                 :output-dir "resources/public/js"
-                :target :nodejs
-                :optimizations :none
-                :source-map true}}]})
+                :optimizations :advanced
+                :target :nodejs}}]})
+                ;:optimizations :none
+                ;:source-map true}}]})
